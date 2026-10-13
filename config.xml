@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+   <name>ld_bot_check</name>
+   <displayName><![CDATA[LD - Vérification anti-bot]]></displayName>
+   <version><![CDATA[2.2.0]]></version>
+   <description><![CDATA[Affiche un écran de vérification (clic souris uniquement) avant de charger le site, avec un cookie pour ne plus le redemander.]]></description>
+   <author><![CDATA[Linra Digital]]></author>
+   <tab><![CDATA[front_office_features]]></tab>
+   <is_configurable>1</is_configurable>
+   <need_instance>0</need_instance>
+   <limited_countries></limited_countries>
+</module>
